@@ -1,6 +1,8 @@
 ### hello there
 🌱 i'm interested in database management!
+
 🔭 i'm curently trying to create my own website lol
+
 💬 but school, but feel free to reach out to me :>
 
 <!--
