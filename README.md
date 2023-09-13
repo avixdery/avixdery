@@ -1,4 +1,7 @@
-### Hi there 👋
+### hello there
+🌱 i'm interested in database management!
+🔭 i'm curently trying to create my own website lol
+💬 but school, but feel free to reach out to me :>
 
 <!--
 **avixdery/avixdery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
