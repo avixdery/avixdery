@@ -1,4 +1,4 @@
-### hello there
+### hello there, i'm jy!
 🌱 i'm interested in database management!
 
 🔭 i'm curently trying to create my own website lol
