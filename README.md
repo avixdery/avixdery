@@ -1,9 +1,9 @@
 ### hello there, i'm jy!
-🌱 i'm interested in database management!
-
-🔭 i'm curently trying to create my own website lol
-
-💬 but school, but feel free to reach out to me :>
+🪶 infj-t; eng/中
+🪐 c++ and a bit of python
+🌱 interested in database management!
+🔭 curently trying to create my own website lol
+💬 semihiatus due to school, but feel free to reach out to me :>
 
 <!--
 **avixdery/avixdery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
