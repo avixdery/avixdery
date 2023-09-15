@@ -1,8 +1,12 @@
 ### hello there, i'm jy!
 🪶 infj-t; eng/中
+
 🪐 c++ and a bit of python
+
 🌱 interested in database management!
+
 🔭 curently trying to create my own website lol
+
 💬 semihiatus due to school, but feel free to reach out to me :>
 
 <!--
