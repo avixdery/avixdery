@@ -1,4 +1,4 @@
-### hello there, i'm jy!
+### hello there!
 🪶 infj-t; eng/中
 
 🪐 c++ and a bit of python
