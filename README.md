@@ -1,11 +1,12 @@
 ### hello there!
-🪶 intj-t; eng/中
+🪶 istj; eng/中
 
-🪐 c++, python, sql, html !!
+🪐 c++
 
-🌱 interested in database management!
+🌱 python, sql, html
 
-🔭 curently trying to survive school
+🔭 currently exploring my options
+
 
 <!--
 **avixdery/avixdery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
