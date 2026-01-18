@@ -1,11 +1,5 @@
 ### hello there!
-🪶 istj; eng/中
-
-🪐 c++
-
-🌱 python, sql, html
-
-🔭 currently exploring my options
+🪶🪐🌱🔭
 
 
 <!--
